@@ -9,12 +9,11 @@ namespace BlApi
 {
     public interface IOrder
     {
-        int Create(BO.Order item);
-       BO.Order? Read(int id);
-        BO.Order? Read(Func<BO.Order, bool>? filter = null);
-        List<BO.Order?> ReadAll(Func<BO.Order, bool>? filter = null);
-        void Update(BO.Order item);
-        void Delete(int id);
-        bool IsExist(int id);
+
+        public IEnumerable<BO.SaleInProduct> AddProductToOrder(BO.Order order, int productId, int amount);
+        public void CalcTotalPriceForProduct(BO.ProductInOrder product);
+        public void CalcTotalPrice(BO.Order order);
+        public void DoOrder(BO.Order order);
+        public void SearchSaleForProduct(BO.ProductInOrder productInOrder, bool IsFavorite);
     }
 }

@@ -23,6 +23,7 @@ namespace BO
             this.Amount = Amount;
             this.EndPriceProduct = EndPriceProduct;
         }
+        public ProductInOrder() { }
 
     }
 }

@@ -1,10 +1,10 @@
 ﻿
 using DO;
 using DalApi;
-namespace Dal;
 using System.Reflection;
 using Tools;
 
+namespace Dal;
 internal class SaleImplementation : ISale
 {
     //v

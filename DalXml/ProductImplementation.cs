@@ -12,7 +12,8 @@ namespace Dal
 {
     internal class ProductImplementation : IProduct
     {
-        string path = @"..\xml\products.xml";
+        //string path = @"..\xml\products.xml";
+        string path = @"..\..\..\..\xml\products.xml";
 
         public int Create(Product item)
         {
@@ -40,7 +41,7 @@ namespace Dal
                 ProductId = (int)p.Element("ProductId"),
                 ProductName = (string)p.Element("ProductName"),
                 Category = (Category)Enum.Parse(typeof(Category), (string)p.Element("Category")!),
-                Price = (double)p.Element("price"),
+                Price = (double)p.Element("Price"),
                 AmountProduct = (int)p.Element("AmountProduct")
             };
         }
@@ -59,7 +60,7 @@ namespace Dal
                 ProductId = (int)p.Element("ProductId"),
                 ProductName = (string)p.Element("ProductName"),
                 Category = (Category)Enum.Parse(typeof(Category), (string)p.Element("Category")!),
-                Price = (double)p.Element("price"),
+                Price = (double)p.Element("Price"),
                 AmountProduct = (int)p.Element("AmountProduct")
             });
 

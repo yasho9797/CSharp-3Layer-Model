@@ -9,7 +9,6 @@ namespace BlApi
 {
     public interface IOrder
     {
-
         public IEnumerable<BO.SaleInProduct> AddProductToOrder(BO.Order order, int productId, int amount);
         public void CalcTotalPriceForProduct(BO.ProductInOrder product);
         public void CalcTotalPrice(BO.Order order);

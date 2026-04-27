@@ -17,5 +17,9 @@ namespace BO
             this.IsFavoraite = IsFavoraite;
             this.EndPrice = EndPrice;
         }
+        public Order()
+        {
+            
+        }
     }
 }

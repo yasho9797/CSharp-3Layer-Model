@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BlApi
 {
-    public interface IBI
+    public interface IBL
     {
         public ICustemer Custemer { get; }
         public IProduct Product { get; }

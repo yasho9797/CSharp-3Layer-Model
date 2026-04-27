@@ -7,7 +7,7 @@ using BlApi;
 
 namespace BlImplementation
 {
-    internal class BI : IBI
+    internal class Bl : IBL
     {
         public IProduct Product => new ProductImplementation();
         public ICustemer Custemer => new CustemerImplementation();

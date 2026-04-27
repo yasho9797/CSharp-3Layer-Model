@@ -1,10 +1,11 @@
-﻿using System;
+﻿
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
 using System.Xml.Linq;
+
 namespace DalXml
 {
     internal static class Config
@@ -13,11 +14,12 @@ namespace DalXml
 
         public static int ProductNum
         {
-            get{
-                string path = @"..\xml\data-config.xml";
-                XElement root=XElement.Load(path);
+            get
+            {
+                string path = @"..\..\..\..\xml\data-config.xml";
+                XElement root = XElement.Load(path);
                 int currentId = int.Parse(root.Element("ProductNum").Value);
-                root.Element("ProductNum").Value=(currentId+1).ToString();
+                root.Element("ProductNum").Value = (currentId + 1).ToString();
                 root.Save(path);
                 return currentId;
             }
@@ -27,7 +29,7 @@ namespace DalXml
         {
             get
             {
-                string path = @"..\xml\data-config.xml";
+                string path = @"..\..\..\..\xml\data-config.xml";
                 XElement root = XElement.Load(path);
                 int currentId = int.Parse(root.Element("SaleNum").Value);
                 root.Element("SaleNum").Value = (currentId + 1).ToString();
@@ -35,6 +37,5 @@ namespace DalXml
                 return currentId;
             }
         }
-
     }
 }

@@ -69,3 +69,39 @@ D:\C-project-middle\DotNet2026_8276_9203\Tools\obj\Debug\net6.0\Tools.dll
 D:\C-project-middle\DotNet2026_8276_9203\Tools\obj\Debug\net6.0\refint\Tools.dll
 D:\C-project-middle\DotNet2026_8276_9203\Tools\obj\Debug\net6.0\Tools.pdb
 D:\C-project-middle\DotNet2026_8276_9203\Tools\obj\Debug\net6.0\ref\Tools.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\Tools\bin\Debug\net6.0\Tools.deps.json
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\Tools\bin\Debug\net6.0\Tools.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\Tools\bin\Debug\net6.0\Tools.pdb
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\Tools\obj\Debug\net6.0\Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\Tools\obj\Debug\net6.0\Tools.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\Tools\obj\Debug\net6.0\Tools.AssemblyInfo.cs
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\Tools\obj\Debug\net6.0\Tools.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\Tools\obj\Debug\net6.0\Tools.sourcelink.json
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\Tools\obj\Debug\net6.0\Tools.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\Tools\obj\Debug\net6.0\refint\Tools.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\Tools\obj\Debug\net6.0\Tools.pdb
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\Tools\obj\Debug\net6.0\ref\Tools.dll
+E:\CSharp-3Layer-Model\Tools\bin\Debug\net6.0\Tools.deps.json
+E:\CSharp-3Layer-Model\Tools\bin\Debug\net6.0\Tools.dll
+E:\CSharp-3Layer-Model\Tools\bin\Debug\net6.0\Tools.pdb
+E:\CSharp-3Layer-Model\Tools\obj\Debug\net6.0\Tools.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp-3Layer-Model\Tools\obj\Debug\net6.0\Tools.AssemblyInfoInputs.cache
+E:\CSharp-3Layer-Model\Tools\obj\Debug\net6.0\Tools.AssemblyInfo.cs
+E:\CSharp-3Layer-Model\Tools\obj\Debug\net6.0\Tools.csproj.CoreCompileInputs.cache
+E:\CSharp-3Layer-Model\Tools\obj\Debug\net6.0\Tools.dll
+E:\CSharp-3Layer-Model\Tools\obj\Debug\net6.0\refint\Tools.dll
+E:\CSharp-3Layer-Model\Tools\obj\Debug\net6.0\Tools.pdb
+E:\CSharp-3Layer-Model\Tools\obj\Debug\net6.0\ref\Tools.dll
+E:\CSharp-3Layer-Model\Tools\obj\Debug\net6.0\Tools.sourcelink.json
+C:\Users\1\Desktop\CSharp-3Layer-Model2\Tools\bin\Debug\net6.0\Tools.deps.json
+C:\Users\1\Desktop\CSharp-3Layer-Model2\Tools\bin\Debug\net6.0\Tools.dll
+C:\Users\1\Desktop\CSharp-3Layer-Model2\Tools\bin\Debug\net6.0\Tools.pdb
+C:\Users\1\Desktop\CSharp-3Layer-Model2\Tools\obj\Debug\net6.0\Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\CSharp-3Layer-Model2\Tools\obj\Debug\net6.0\Tools.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\CSharp-3Layer-Model2\Tools\obj\Debug\net6.0\Tools.AssemblyInfo.cs
+C:\Users\1\Desktop\CSharp-3Layer-Model2\Tools\obj\Debug\net6.0\Tools.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\CSharp-3Layer-Model2\Tools\obj\Debug\net6.0\Tools.sourcelink.json
+C:\Users\1\Desktop\CSharp-3Layer-Model2\Tools\obj\Debug\net6.0\Tools.dll
+C:\Users\1\Desktop\CSharp-3Layer-Model2\Tools\obj\Debug\net6.0\refint\Tools.dll
+C:\Users\1\Desktop\CSharp-3Layer-Model2\Tools\obj\Debug\net6.0\Tools.pdb
+C:\Users\1\Desktop\CSharp-3Layer-Model2\Tools\obj\Debug\net6.0\ref\Tools.dll

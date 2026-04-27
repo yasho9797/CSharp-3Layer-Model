@@ -319,3 +319,40 @@ M:\פרויקט C#\4.2 - Copy\DotNet2026_8276_9203\DalTest\obj\Debug\refint\DalT
 M:\פרויקט C#\4.2 - Copy\DotNet2026_8276_9203\DalTest\obj\Debug\DalTest.pdb
 M:\פרויקט C#\4.2 - Copy\DotNet2026_8276_9203\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
 M:\פרויקט C#\4.2 - Copy\DotNet2026_8276_9203\DalTest\obj\Debug\ref\DalTest.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalTest\obj\Debug\DalTest.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalTest\obj\Debug\refint\DalTest.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalTest\obj\Debug\DalTest.pdb
+E:\CSharp-3Layer-Model\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+E:\CSharp-3Layer-Model\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp-3Layer-Model\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+E:\CSharp-3Layer-Model\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+E:\CSharp-3Layer-Model\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+E:\CSharp-3Layer-Model\DalTest\obj\Debug\DalTest.sourcelink.json
+E:\CSharp-3Layer-Model\bin\DalTest.exe
+E:\CSharp-3Layer-Model\bin\DalTest.deps.json
+E:\CSharp-3Layer-Model\bin\DalTest.runtimeconfig.json
+E:\CSharp-3Layer-Model\bin\DalTest.dll
+E:\CSharp-3Layer-Model\bin\DalTest.pdb
+E:\CSharp-3Layer-Model\DalTest\obj\Debug\DalTest.csproj.Up2Date
+E:\CSharp-3Layer-Model\DalTest\obj\Debug\DalTest.dll
+E:\CSharp-3Layer-Model\DalTest\obj\Debug\refint\DalTest.dll
+E:\CSharp-3Layer-Model\DalTest\obj\Debug\DalTest.pdb
+E:\CSharp-3Layer-Model\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
+E:\CSharp-3Layer-Model\DalTest\obj\Debug\ref\DalTest.dll
+C:\Users\1\Desktop\CSharp-3Layer-Model2\bin\DalTest.exe
+C:\Users\1\Desktop\CSharp-3Layer-Model2\bin\DalTest.deps.json
+C:\Users\1\Desktop\CSharp-3Layer-Model2\bin\DalTest.runtimeconfig.json
+C:\Users\1\Desktop\CSharp-3Layer-Model2\bin\DalTest.dll
+C:\Users\1\Desktop\CSharp-3Layer-Model2\bin\DalTest.pdb
+C:\Users\1\Desktop\CSharp-3Layer-Model2\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\CSharp-3Layer-Model2\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\CSharp-3Layer-Model2\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\CSharp-3Layer-Model2\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+C:\Users\1\Desktop\CSharp-3Layer-Model2\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\CSharp-3Layer-Model2\DalTest\obj\Debug\DalTest.sourcelink.json
+C:\Users\1\Desktop\CSharp-3Layer-Model2\DalTest\obj\Debug\DalTest.csproj.Up2Date
+C:\Users\1\Desktop\CSharp-3Layer-Model2\DalTest\obj\Debug\DalTest.dll
+C:\Users\1\Desktop\CSharp-3Layer-Model2\DalTest\obj\Debug\refint\DalTest.dll
+C:\Users\1\Desktop\CSharp-3Layer-Model2\DalTest\obj\Debug\DalTest.pdb
+C:\Users\1\Desktop\CSharp-3Layer-Model2\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
+C:\Users\1\Desktop\CSharp-3Layer-Model2\DalTest\obj\Debug\ref\DalTest.dll

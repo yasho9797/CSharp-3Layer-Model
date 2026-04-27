@@ -131,7 +131,7 @@ internal class Program
         catch (Exception e)
         {
             LogManager.WriteToLog("the sale is exsists", MethodBase.GetCurrentMethod().DeclaringType.FullName, MethodBase.GetCurrentMethod().Name);
-            throw new Exeptions.DalAlreadyExistsException("the sale is exsists");
+            throw new DO.DalAlreadyExistsException("the sale is exsists");
         }
     }
     private static void AddProduct()
@@ -149,7 +149,7 @@ internal class Program
         catch (Exception e)
         {
             LogManager.WriteToLog("the product is exsists", MethodBase.GetCurrentMethod().DeclaringType.FullName, MethodBase.GetCurrentMethod().Name);
-            throw new Exeptions.DalAlreadyExistsException("the product is exsists");
+            throw new DO.DalAlreadyExistsException("the product is exsists");
 
         }
     }
@@ -168,7 +168,7 @@ internal class Program
         catch (Exception e)
         {
             LogManager.WriteToLog("the custemer is exsists", MethodBase.GetCurrentMethod().DeclaringType.FullName, MethodBase.GetCurrentMethod().Name);
-            throw new Exeptions.DalAlreadyExistsException("the custemer is exsists");
+            throw new DO.DalAlreadyExistsException("the custemer is exsists");
         }
     }
     private static void UpdateSale()
@@ -197,7 +197,7 @@ internal class Program
         catch (Exception e)
         {
             LogManager.WriteToLog("the sale with id is not exists", MethodBase.GetCurrentMethod().DeclaringType.FullName, MethodBase.GetCurrentMethod().Name);
-            throw new Exeptions.DalDoesNotExistException("the sale with id is not exists");
+            throw new DO.DalDoesNotExistException("the sale with id is not exists");
 
         }
     }
@@ -226,7 +226,7 @@ internal class Program
         catch (Exception e)
         {
             LogManager.WriteToLog("the custemer with id is not exists", MethodBase.GetCurrentMethod().DeclaringType.FullName, MethodBase.GetCurrentMethod().Name);
-            throw new Exeptions.DalDoesNotExistException("the custemer with id is not exists");
+            throw new DO.DalDoesNotExistException("the custemer with id is not exists");
         }
     }
     private static void UpdateProduct()
@@ -254,7 +254,7 @@ internal class Program
         catch (Exception e)
         {
             LogManager.WriteToLog("the product with id is not exists", MethodBase.GetCurrentMethod().DeclaringType.FullName, MethodBase.GetCurrentMethod().Name);
-            throw new Exeptions.DalDoesNotExistException("the product with id is not exists");
+            throw new DO.DalDoesNotExistException("the product with id is not exists");
         }
     }
     private static void ReadAll<T>(ICrud<T> crud)
@@ -288,7 +288,7 @@ internal class Program
         catch (Exception e)
         {
             LogManager.WriteToLog("the  id is not exists", MethodBase.GetCurrentMethod().DeclaringType.FullName, MethodBase.GetCurrentMethod().Name);
-            throw new Exeptions.DalDoesNotExistException("the  id is not exists");
+            throw new DO.DalDoesNotExistException("the  id is not exists");
 
         }
     }
@@ -306,7 +306,7 @@ internal class Program
         catch (Exception e)
         {
             LogManager.WriteToLog("the id is not exists", MethodBase.GetCurrentMethod().DeclaringType.FullName, MethodBase.GetCurrentMethod().Name);
-            throw new Exeptions.DalDoesNotExistException("the  id is not exists");
+            throw new DO.DalDoesNotExistException("the  id is not exists");
         }
     }
 

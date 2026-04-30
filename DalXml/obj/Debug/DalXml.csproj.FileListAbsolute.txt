@@ -24,5 +24,4 @@ M:\git\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.dll
 M:\git\CSharp-3Layer-Model\DalXml\obj\Debug\refint\DalXml.dll
 M:\git\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.pdb
 M:\git\CSharp-3Layer-Model\DalXml\obj\Debug\ref\DalXml.dll
-M:\git\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.sourcelink.json
-M:\git\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.csproj.Up2Date
+M:\git\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.csproj.CopyComplete

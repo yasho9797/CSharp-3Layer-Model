@@ -312,5 +312,4 @@ M:\git\CSharp-3Layer-Model\DalFacade\obj\Debug\DalFacade.dll
 M:\git\CSharp-3Layer-Model\DalFacade\obj\Debug\refint\DalFacade.dll
 M:\git\CSharp-3Layer-Model\DalFacade\obj\Debug\DalFacade.pdb
 M:\git\CSharp-3Layer-Model\DalFacade\obj\Debug\ref\DalFacade.dll
-M:\git\CSharp-3Layer-Model\DalFacade\obj\Debug\DalFacade.sourcelink.json
-M:\git\CSharp-3Layer-Model\DalFacade\obj\Debug\DalFacade.csproj.Up2Date
+M:\git\CSharp-3Layer-Model\DalFacade\obj\Debug\DalFacade.csproj.CopyComplete

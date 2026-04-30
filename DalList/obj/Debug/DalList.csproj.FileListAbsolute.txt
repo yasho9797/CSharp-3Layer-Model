@@ -341,5 +341,4 @@ M:\git\CSharp-3Layer-Model\DalList\obj\Debug\DalList.dll
 M:\git\CSharp-3Layer-Model\DalList\obj\Debug\refint\DalList.dll
 M:\git\CSharp-3Layer-Model\DalList\obj\Debug\DalList.pdb
 M:\git\CSharp-3Layer-Model\DalList\obj\Debug\ref\DalList.dll
-M:\git\CSharp-3Layer-Model\DalList\obj\Debug\DalList.sourcelink.json
-M:\git\CSharp-3Layer-Model\DalList\obj\Debug\DalList.csproj.Up2Date
+M:\git\CSharp-3Layer-Model\DalList\obj\Debug\DalList.csproj.CopyComplete

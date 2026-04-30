@@ -453,8 +453,6 @@ internal class Program
         else
         {
             Console.WriteLine("goodbuy");
-
-
         }
     }
 }

@@ -371,5 +371,4 @@ M:\git\CSharp-3Layer-Model\DalTest\obj\Debug\refint\DalTest.dll
 M:\git\CSharp-3Layer-Model\DalTest\obj\Debug\DalTest.pdb
 M:\git\CSharp-3Layer-Model\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
 M:\git\CSharp-3Layer-Model\DalTest\obj\Debug\ref\DalTest.dll
-M:\git\CSharp-3Layer-Model\DalTest\obj\Debug\DalTest.sourcelink.json
-M:\git\CSharp-3Layer-Model\DalTest\obj\Debug\DalTest.csproj.Up2Date
+M:\git\CSharp-3Layer-Model\DalTest\obj\Debug\DalTest.csproj.CopyComplete

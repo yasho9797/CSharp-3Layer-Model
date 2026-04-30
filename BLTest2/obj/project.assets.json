@@ -124,25 +124,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\gililev\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\1\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "M:\\git\\CSharp-3Layer-Model\\BLTest2\\BLTest2.csproj",
+      "projectUniqueName": "C:\\Users\\1\\Desktop\\‏‏תיקיה חדשה\\CSharp-3Layer-Model\\BLTest2\\BLTest2.csproj",
       "projectName": "BLTest2",
-      "projectPath": "M:\\git\\CSharp-3Layer-Model\\BLTest2\\BLTest2.csproj",
-      "packagesPath": "C:\\Users\\gililev\\.nuget\\packages\\",
-      "outputPath": "M:\\git\\CSharp-3Layer-Model\\BLTest2\\obj\\",
+      "projectPath": "C:\\Users\\1\\Desktop\\‏‏תיקיה חדשה\\CSharp-3Layer-Model\\BLTest2\\BLTest2.csproj",
+      "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\1\\Desktop\\‏‏תיקיה חדשה\\CSharp-3Layer-Model\\BLTest2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\gililev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\1\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -151,21 +149,20 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files\\dotnet\\library-packs": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "M:\\git\\CSharp-3Layer-Model\\BL\\BL.csproj": {
-              "projectPath": "M:\\git\\CSharp-3Layer-Model\\BL\\BL.csproj"
+            "C:\\Users\\1\\Desktop\\‏‏תיקיה חדשה\\CSharp-3Layer-Model\\BL\\BL.csproj": {
+              "projectPath": "C:\\Users\\1\\Desktop\\‏‏תיקיה חדשה\\CSharp-3Layer-Model\\BL\\BL.csproj"
             },
-            "M:\\git\\CSharp-3Layer-Model\\DalTest\\DalTest.csproj": {
-              "projectPath": "M:\\git\\CSharp-3Layer-Model\\DalTest\\DalTest.csproj"
+            "C:\\Users\\1\\Desktop\\‏‏תיקיה חדשה\\CSharp-3Layer-Model\\DalTest\\DalTest.csproj": {
+              "projectPath": "C:\\Users\\1\\Desktop\\‏‏תיקיה חדשה\\CSharp-3Layer-Model\\DalTest\\DalTest.csproj"
             },
-            "M:\\git\\CSharp-3Layer-Model\\DalXml\\DalXml.csproj": {
-              "projectPath": "M:\\git\\CSharp-3Layer-Model\\DalXml\\DalXml.csproj"
+            "C:\\Users\\1\\Desktop\\‏‏תיקיה חדשה\\CSharp-3Layer-Model\\DalXml\\DalXml.csproj": {
+              "projectPath": "C:\\Users\\1\\Desktop\\‏‏תיקיה חדשה\\CSharp-3Layer-Model\\DalXml\\DalXml.csproj"
             }
           }
         }
@@ -174,7 +171,13 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net6.0": {
@@ -195,7 +198,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.313\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -16,7 +16,7 @@ namespace DalXml
         {
             get
             {
-                string path = @"..\..\..\..\xml\data-config.xml";
+                string path = @"..\xml\data-config.xml";
                 XElement root = XElement.Load(path);
                 int currentId = int.Parse(root.Element("ProductNum").Value);
                 root.Element("ProductNum").Value = (currentId + 1).ToString();
@@ -29,7 +29,7 @@ namespace DalXml
         {
             get
             {
-                string path = @"..\..\..\..\xml\data-config.xml";
+                string path = @"..\xml\data-config.xml";
                 XElement root = XElement.Load(path);
                 int currentId = int.Parse(root.Element("SaleNum").Value);
                 root.Element("SaleNum").Value = (currentId + 1).ToString();

@@ -21,10 +21,7 @@
           "Tools": "1.0.0"
         },
         "runtime": {
-          "DalFacade.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "DalFacade.dll": {}
         }
       },
       "DalList/1.0.0": {
@@ -33,10 +30,7 @@
           "Tools": "1.0.0"
         },
         "runtime": {
-          "DalList.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "DalList.dll": {}
         }
       },
       "DalXml/1.0.0": {
@@ -45,18 +39,12 @@
           "Tools": "1.0.0"
         },
         "runtime": {
-          "DalXml.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "DalXml.dll": {}
         }
       },
       "Tools/1.0.0": {
         "runtime": {
-          "Tools.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "Tools.dll": {}
         }
       }
     }

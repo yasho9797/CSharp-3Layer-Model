@@ -1,0 +1,13 @@
+M:\git\CSharp-3Layer-Model\bin\BL.deps.json
+M:\git\CSharp-3Layer-Model\bin\BL.dll
+M:\git\CSharp-3Layer-Model\bin\BL.pdb
+M:\git\CSharp-3Layer-Model\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+M:\git\CSharp-3Layer-Model\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+M:\git\CSharp-3Layer-Model\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+M:\git\CSharp-3Layer-Model\BL\obj\Debug\BL.AssemblyInfo.cs
+M:\git\CSharp-3Layer-Model\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+M:\git\CSharp-3Layer-Model\BL\obj\Debug\BL.csproj.CopyComplete
+M:\git\CSharp-3Layer-Model\BL\obj\Debug\BL.dll
+M:\git\CSharp-3Layer-Model\BL\obj\Debug\refint\BL.dll
+M:\git\CSharp-3Layer-Model\BL\obj\Debug\BL.pdb
+M:\git\CSharp-3Layer-Model\BL\obj\Debug\ref\BL.dll

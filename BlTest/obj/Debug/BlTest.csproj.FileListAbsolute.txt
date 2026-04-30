@@ -6,3 +6,11 @@ E:\CSharp-3Layer-Model\BlTest\obj\Debug\BlTest.csproj.SuggestedBindingRedirects.
 E:\CSharp-3Layer-Model\BlTest\obj\Debug\BlTest.csproj.CoreCompileInputs.cache
 E:\CSharp-3Layer-Model\BlTest\obj\Debug\BlTest.exe
 E:\CSharp-3Layer-Model\BlTest\obj\Debug\BlTest.pdb
+M:\git\CSharp-3Layer-Model\BlTest\bin\Debug\BlTest.exe.config
+M:\git\CSharp-3Layer-Model\BlTest\bin\Debug\BlTest.exe
+M:\git\CSharp-3Layer-Model\BlTest\bin\Debug\BlTest.pdb
+M:\git\CSharp-3Layer-Model\BlTest\obj\Debug\BlTest.csproj.AssemblyReference.cache
+M:\git\CSharp-3Layer-Model\BlTest\obj\Debug\BlTest.csproj.SuggestedBindingRedirects.cache
+M:\git\CSharp-3Layer-Model\BlTest\obj\Debug\BlTest.csproj.CoreCompileInputs.cache
+M:\git\CSharp-3Layer-Model\BlTest\obj\Debug\BlTest.exe
+M:\git\CSharp-3Layer-Model\BlTest\obj\Debug\BlTest.pdb

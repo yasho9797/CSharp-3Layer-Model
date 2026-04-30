@@ -12,3 +12,16 @@ C:\Users\1\Desktop\CSharp-3Layer-Model2\DalXml\obj\Debug\DalXml.dll
 C:\Users\1\Desktop\CSharp-3Layer-Model2\DalXml\obj\Debug\refint\DalXml.dll
 C:\Users\1\Desktop\CSharp-3Layer-Model2\DalXml\obj\Debug\DalXml.pdb
 C:\Users\1\Desktop\CSharp-3Layer-Model2\DalXml\obj\Debug\ref\DalXml.dll
+M:\git\CSharp-3Layer-Model\bin\DalXml.deps.json
+M:\git\CSharp-3Layer-Model\bin\DalXml.dll
+M:\git\CSharp-3Layer-Model\bin\DalXml.pdb
+M:\git\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+M:\git\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+M:\git\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+M:\git\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+M:\git\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+M:\git\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.csproj.CopyComplete
+M:\git\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.dll
+M:\git\CSharp-3Layer-Model\DalXml\obj\Debug\refint\DalXml.dll
+M:\git\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.pdb
+M:\git\CSharp-3Layer-Model\DalXml\obj\Debug\ref\DalXml.dll

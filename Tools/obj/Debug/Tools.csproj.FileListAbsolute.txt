@@ -1,0 +1,12 @@
+M:\git\CSharp-3Layer-Model\bin\Tools.deps.json
+M:\git\CSharp-3Layer-Model\bin\Tools.dll
+M:\git\CSharp-3Layer-Model\bin\Tools.pdb
+M:\git\CSharp-3Layer-Model\Tools\obj\Debug\Tools.csproj.AssemblyReference.cache
+M:\git\CSharp-3Layer-Model\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+M:\git\CSharp-3Layer-Model\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+M:\git\CSharp-3Layer-Model\Tools\obj\Debug\Tools.AssemblyInfo.cs
+M:\git\CSharp-3Layer-Model\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+M:\git\CSharp-3Layer-Model\Tools\obj\Debug\Tools.dll
+M:\git\CSharp-3Layer-Model\Tools\obj\Debug\refint\Tools.dll
+M:\git\CSharp-3Layer-Model\Tools\obj\Debug\Tools.pdb
+M:\git\CSharp-3Layer-Model\Tools\obj\Debug\ref\Tools.dll

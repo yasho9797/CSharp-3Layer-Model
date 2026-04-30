@@ -300,3 +300,16 @@ C:\Users\1\Desktop\CSharp-3Layer-Model2\DalFacade\obj\Debug\DalFacade.dll
 C:\Users\1\Desktop\CSharp-3Layer-Model2\DalFacade\obj\Debug\refint\DalFacade.dll
 C:\Users\1\Desktop\CSharp-3Layer-Model2\DalFacade\obj\Debug\DalFacade.pdb
 C:\Users\1\Desktop\CSharp-3Layer-Model2\DalFacade\obj\Debug\ref\DalFacade.dll
+M:\git\CSharp-3Layer-Model\bin\DalFacade.deps.json
+M:\git\CSharp-3Layer-Model\bin\DalFacade.dll
+M:\git\CSharp-3Layer-Model\bin\DalFacade.pdb
+M:\git\CSharp-3Layer-Model\DalFacade\obj\Debug\DalFacade.csproj.AssemblyReference.cache
+M:\git\CSharp-3Layer-Model\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+M:\git\CSharp-3Layer-Model\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+M:\git\CSharp-3Layer-Model\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+M:\git\CSharp-3Layer-Model\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+M:\git\CSharp-3Layer-Model\DalFacade\obj\Debug\DalFacade.csproj.CopyComplete
+M:\git\CSharp-3Layer-Model\DalFacade\obj\Debug\DalFacade.dll
+M:\git\CSharp-3Layer-Model\DalFacade\obj\Debug\refint\DalFacade.dll
+M:\git\CSharp-3Layer-Model\DalFacade\obj\Debug\DalFacade.pdb
+M:\git\CSharp-3Layer-Model\DalFacade\obj\Debug\ref\DalFacade.dll

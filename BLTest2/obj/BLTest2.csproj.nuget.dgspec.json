@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\1\\Desktop\\CSharp-3Layer-Model2\\BLTest2\\BLTest2.csproj": {}
+    "M:\\git\\CSharp-3Layer-Model\\BLTest2\\BLTest2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\1\\Desktop\\CSharp-3Layer-Model2\\BLTest2\\BLTest2.csproj": {
+    "M:\\git\\CSharp-3Layer-Model\\BLTest2\\BLTest2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\1\\Desktop\\CSharp-3Layer-Model2\\BLTest2\\BLTest2.csproj",
+        "projectUniqueName": "M:\\git\\CSharp-3Layer-Model\\BLTest2\\BLTest2.csproj",
         "projectName": "BLTest2",
-        "projectPath": "C:\\Users\\1\\Desktop\\CSharp-3Layer-Model2\\BLTest2\\BLTest2.csproj",
-        "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\1\\Desktop\\CSharp-3Layer-Model2\\BLTest2\\obj\\",
+        "projectPath": "M:\\git\\CSharp-3Layer-Model\\BLTest2\\BLTest2.csproj",
+        "packagesPath": "C:\\Users\\gililev\\.nuget\\packages\\",
+        "outputPath": "M:\\git\\CSharp-3Layer-Model\\BLTest2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gililev\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -33,11 +33,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\1\\Desktop\\CSharp-3Layer-Model2\\BL\\BL.csproj": {
-                "projectPath": "C:\\Users\\1\\Desktop\\CSharp-3Layer-Model2\\BL\\BL.csproj"
+              "M:\\git\\CSharp-3Layer-Model\\BL\\BL.csproj": {
+                "projectPath": "M:\\git\\CSharp-3Layer-Model\\BL\\BL.csproj"
               },
-              "C:\\Users\\1\\Desktop\\CSharp-3Layer-Model2\\DalTest\\DalTest.csproj": {
-                "projectPath": "C:\\Users\\1\\Desktop\\CSharp-3Layer-Model2\\DalTest\\DalTest.csproj"
+              "M:\\git\\CSharp-3Layer-Model\\DalTest\\DalTest.csproj": {
+                "projectPath": "M:\\git\\CSharp-3Layer-Model\\DalTest\\DalTest.csproj"
+              },
+              "M:\\git\\CSharp-3Layer-Model\\DalXml\\DalXml.csproj": {
+                "projectPath": "M:\\git\\CSharp-3Layer-Model\\DalXml\\DalXml.csproj"
               }
             }
           }
@@ -46,13 +49,7 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net6.0": {
@@ -73,24 +70,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\1\\Desktop\\CSharp-3Layer-Model2\\BL\\BL.csproj": {
+    "M:\\git\\CSharp-3Layer-Model\\BL\\BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\1\\Desktop\\CSharp-3Layer-Model2\\BL\\BL.csproj",
+        "projectUniqueName": "M:\\git\\CSharp-3Layer-Model\\BL\\BL.csproj",
         "projectName": "BL",
-        "projectPath": "C:\\Users\\1\\Desktop\\CSharp-3Layer-Model2\\BL\\BL.csproj",
-        "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\1\\Desktop\\CSharp-3Layer-Model2\\BL\\obj\\",
+        "projectPath": "M:\\git\\CSharp-3Layer-Model\\BL\\BL.csproj",
+        "packagesPath": "C:\\Users\\gililev\\.nuget\\packages\\",
+        "outputPath": "M:\\git\\CSharp-3Layer-Model\\BL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gililev\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -106,11 +103,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\1\\Desktop\\CSharp-3Layer-Model2\\DalFacade\\DalFacade.csproj": {
-                "projectPath": "C:\\Users\\1\\Desktop\\CSharp-3Layer-Model2\\DalFacade\\DalFacade.csproj"
+              "M:\\git\\CSharp-3Layer-Model\\DalFacade\\DalFacade.csproj": {
+                "projectPath": "M:\\git\\CSharp-3Layer-Model\\DalFacade\\DalFacade.csproj"
               },
-              "C:\\Users\\1\\Desktop\\CSharp-3Layer-Model2\\DalList\\DalList.csproj": {
-                "projectPath": "C:\\Users\\1\\Desktop\\CSharp-3Layer-Model2\\DalList\\DalList.csproj"
+              "M:\\git\\CSharp-3Layer-Model\\DalList\\DalList.csproj": {
+                "projectPath": "M:\\git\\CSharp-3Layer-Model\\DalList\\DalList.csproj"
               }
             }
           }
@@ -119,13 +116,7 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net6.0": {
@@ -146,24 +137,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\1\\Desktop\\CSharp-3Layer-Model2\\DalFacade\\DalFacade.csproj": {
+    "M:\\git\\CSharp-3Layer-Model\\DalFacade\\DalFacade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\1\\Desktop\\CSharp-3Layer-Model2\\DalFacade\\DalFacade.csproj",
+        "projectUniqueName": "M:\\git\\CSharp-3Layer-Model\\DalFacade\\DalFacade.csproj",
         "projectName": "DalFacade",
-        "projectPath": "C:\\Users\\1\\Desktop\\CSharp-3Layer-Model2\\DalFacade\\DalFacade.csproj",
-        "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\1\\Desktop\\CSharp-3Layer-Model2\\DalFacade\\obj\\",
+        "projectPath": "M:\\git\\CSharp-3Layer-Model\\DalFacade\\DalFacade.csproj",
+        "packagesPath": "C:\\Users\\gililev\\.nuget\\packages\\",
+        "outputPath": "M:\\git\\CSharp-3Layer-Model\\DalFacade\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gililev\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -179,8 +170,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\1\\Desktop\\CSharp-3Layer-Model2\\Tools\\Tools.csproj": {
-                "projectPath": "C:\\Users\\1\\Desktop\\CSharp-3Layer-Model2\\Tools\\Tools.csproj"
+              "M:\\git\\CSharp-3Layer-Model\\Tools\\Tools.csproj": {
+                "projectPath": "M:\\git\\CSharp-3Layer-Model\\Tools\\Tools.csproj"
               }
             }
           }
@@ -189,13 +180,7 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net6.0": {
@@ -216,24 +201,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\1\\Desktop\\CSharp-3Layer-Model2\\DalList\\DalList.csproj": {
+    "M:\\git\\CSharp-3Layer-Model\\DalList\\DalList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\1\\Desktop\\CSharp-3Layer-Model2\\DalList\\DalList.csproj",
+        "projectUniqueName": "M:\\git\\CSharp-3Layer-Model\\DalList\\DalList.csproj",
         "projectName": "DalList",
-        "projectPath": "C:\\Users\\1\\Desktop\\CSharp-3Layer-Model2\\DalList\\DalList.csproj",
-        "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\1\\Desktop\\CSharp-3Layer-Model2\\DalList\\obj\\",
+        "projectPath": "M:\\git\\CSharp-3Layer-Model\\DalList\\DalList.csproj",
+        "packagesPath": "C:\\Users\\gililev\\.nuget\\packages\\",
+        "outputPath": "M:\\git\\CSharp-3Layer-Model\\DalList\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gililev\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -249,11 +234,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\1\\Desktop\\CSharp-3Layer-Model2\\DalFacade\\DalFacade.csproj": {
-                "projectPath": "C:\\Users\\1\\Desktop\\CSharp-3Layer-Model2\\DalFacade\\DalFacade.csproj"
+              "M:\\git\\CSharp-3Layer-Model\\DalFacade\\DalFacade.csproj": {
+                "projectPath": "M:\\git\\CSharp-3Layer-Model\\DalFacade\\DalFacade.csproj"
               },
-              "C:\\Users\\1\\Desktop\\CSharp-3Layer-Model2\\Tools\\Tools.csproj": {
-                "projectPath": "C:\\Users\\1\\Desktop\\CSharp-3Layer-Model2\\Tools\\Tools.csproj"
+              "M:\\git\\CSharp-3Layer-Model\\Tools\\Tools.csproj": {
+                "projectPath": "M:\\git\\CSharp-3Layer-Model\\Tools\\Tools.csproj"
               }
             }
           }
@@ -262,13 +247,7 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net6.0": {
@@ -289,24 +268,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\1\\Desktop\\CSharp-3Layer-Model2\\DalTest\\DalTest.csproj": {
+    "M:\\git\\CSharp-3Layer-Model\\DalTest\\DalTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\1\\Desktop\\CSharp-3Layer-Model2\\DalTest\\DalTest.csproj",
+        "projectUniqueName": "M:\\git\\CSharp-3Layer-Model\\DalTest\\DalTest.csproj",
         "projectName": "DalTest",
-        "projectPath": "C:\\Users\\1\\Desktop\\CSharp-3Layer-Model2\\DalTest\\DalTest.csproj",
-        "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\1\\Desktop\\CSharp-3Layer-Model2\\DalTest\\obj\\",
+        "projectPath": "M:\\git\\CSharp-3Layer-Model\\DalTest\\DalTest.csproj",
+        "packagesPath": "C:\\Users\\gililev\\.nuget\\packages\\",
+        "outputPath": "M:\\git\\CSharp-3Layer-Model\\DalTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gililev\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -322,14 +301,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\1\\Desktop\\CSharp-3Layer-Model2\\DalFacade\\DalFacade.csproj": {
-                "projectPath": "C:\\Users\\1\\Desktop\\CSharp-3Layer-Model2\\DalFacade\\DalFacade.csproj"
+              "M:\\git\\CSharp-3Layer-Model\\DalFacade\\DalFacade.csproj": {
+                "projectPath": "M:\\git\\CSharp-3Layer-Model\\DalFacade\\DalFacade.csproj"
               },
-              "C:\\Users\\1\\Desktop\\CSharp-3Layer-Model2\\DalList\\DalList.csproj": {
-                "projectPath": "C:\\Users\\1\\Desktop\\CSharp-3Layer-Model2\\DalList\\DalList.csproj"
+              "M:\\git\\CSharp-3Layer-Model\\DalList\\DalList.csproj": {
+                "projectPath": "M:\\git\\CSharp-3Layer-Model\\DalList\\DalList.csproj"
               },
-              "C:\\Users\\1\\Desktop\\CSharp-3Layer-Model2\\DalXml\\DalXml.csproj": {
-                "projectPath": "C:\\Users\\1\\Desktop\\CSharp-3Layer-Model2\\DalXml\\DalXml.csproj"
+              "M:\\git\\CSharp-3Layer-Model\\DalXml\\DalXml.csproj": {
+                "projectPath": "M:\\git\\CSharp-3Layer-Model\\DalXml\\DalXml.csproj"
               }
             }
           }
@@ -338,13 +317,7 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net6.0": {
@@ -365,24 +338,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\1\\Desktop\\CSharp-3Layer-Model2\\DalXml\\DalXml.csproj": {
+    "M:\\git\\CSharp-3Layer-Model\\DalXml\\DalXml.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\1\\Desktop\\CSharp-3Layer-Model2\\DalXml\\DalXml.csproj",
+        "projectUniqueName": "M:\\git\\CSharp-3Layer-Model\\DalXml\\DalXml.csproj",
         "projectName": "DalXml",
-        "projectPath": "C:\\Users\\1\\Desktop\\CSharp-3Layer-Model2\\DalXml\\DalXml.csproj",
-        "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\1\\Desktop\\CSharp-3Layer-Model2\\DalXml\\obj\\",
+        "projectPath": "M:\\git\\CSharp-3Layer-Model\\DalXml\\DalXml.csproj",
+        "packagesPath": "C:\\Users\\gililev\\.nuget\\packages\\",
+        "outputPath": "M:\\git\\CSharp-3Layer-Model\\DalXml\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gililev\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -398,11 +371,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\1\\Desktop\\CSharp-3Layer-Model2\\DalFacade\\DalFacade.csproj": {
-                "projectPath": "C:\\Users\\1\\Desktop\\CSharp-3Layer-Model2\\DalFacade\\DalFacade.csproj"
+              "M:\\git\\CSharp-3Layer-Model\\DalFacade\\DalFacade.csproj": {
+                "projectPath": "M:\\git\\CSharp-3Layer-Model\\DalFacade\\DalFacade.csproj"
               },
-              "C:\\Users\\1\\Desktop\\CSharp-3Layer-Model2\\Tools\\Tools.csproj": {
-                "projectPath": "C:\\Users\\1\\Desktop\\CSharp-3Layer-Model2\\Tools\\Tools.csproj"
+              "M:\\git\\CSharp-3Layer-Model\\Tools\\Tools.csproj": {
+                "projectPath": "M:\\git\\CSharp-3Layer-Model\\Tools\\Tools.csproj"
               }
             }
           }
@@ -411,13 +384,7 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net6.0": {
@@ -438,24 +405,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\1\\Desktop\\CSharp-3Layer-Model2\\Tools\\Tools.csproj": {
+    "M:\\git\\CSharp-3Layer-Model\\Tools\\Tools.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\1\\Desktop\\CSharp-3Layer-Model2\\Tools\\Tools.csproj",
+        "projectUniqueName": "M:\\git\\CSharp-3Layer-Model\\Tools\\Tools.csproj",
         "projectName": "Tools",
-        "projectPath": "C:\\Users\\1\\Desktop\\CSharp-3Layer-Model2\\Tools\\Tools.csproj",
-        "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\1\\Desktop\\CSharp-3Layer-Model2\\Tools\\obj\\",
+        "projectPath": "M:\\git\\CSharp-3Layer-Model\\Tools\\Tools.csproj",
+        "packagesPath": "C:\\Users\\gililev\\.nuget\\packages\\",
+        "outputPath": "M:\\git\\CSharp-3Layer-Model\\Tools\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gililev\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -477,13 +444,7 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net6.0": {
@@ -504,7 +465,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

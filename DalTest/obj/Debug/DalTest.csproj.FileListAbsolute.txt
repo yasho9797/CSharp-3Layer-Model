@@ -366,9 +366,10 @@ M:\git\CSharp-3Layer-Model\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfi
 M:\git\CSharp-3Layer-Model\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
 M:\git\CSharp-3Layer-Model\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
 M:\git\CSharp-3Layer-Model\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
-M:\git\CSharp-3Layer-Model\DalTest\obj\Debug\DalTest.csproj.CopyComplete
 M:\git\CSharp-3Layer-Model\DalTest\obj\Debug\DalTest.dll
 M:\git\CSharp-3Layer-Model\DalTest\obj\Debug\refint\DalTest.dll
 M:\git\CSharp-3Layer-Model\DalTest\obj\Debug\DalTest.pdb
 M:\git\CSharp-3Layer-Model\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
 M:\git\CSharp-3Layer-Model\DalTest\obj\Debug\ref\DalTest.dll
+M:\git\CSharp-3Layer-Model\DalTest\obj\Debug\DalTest.sourcelink.json
+M:\git\CSharp-3Layer-Model\DalTest\obj\Debug\DalTest.csproj.Up2Date

@@ -421,34 +421,40 @@ internal class Program
         if (choice == "Y" || choice == "y")
         {
             Initialization.Initialize();
-        }
 
-        try
-        {
-            //בחירת יישות
-            int select = PrintMainMenu();
-            while (select != 0)
+            try
             {
-                switch (select)
+                //בחירת יישות
+                int select = PrintMainMenu();
+                while (select != 0)
                 {
-                    //לפי בחירת הישות שהתקבלה
-                    //שולח לתפריט משני של הפונקציות
-                    case 1:
-                        CustemetMenu();
-                        break;
-                    case 2:
-                        ProductMenu();
-                        break;
-                    case 3:
-                        SaleMenu();
-                        break;
+                    switch (select)
+                    {
+                        //לפי בחירת הישות שהתקבלה
+                        //שולח לתפריט משני של הפונקציות
+                        case 1:
+                            CustemetMenu();
+                            break;
+                        case 2:
+                            ProductMenu();
+                            break;
+                        case 3:
+                            SaleMenu();
+                            break;
+                    }
+                    select = PrintMainMenu();
                 }
-                select = PrintMainMenu();
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
             }
         }
-        catch (Exception e)
+        else
         {
-            Console.WriteLine(e.Message);
+            Console.WriteLine("goodbuy");
+
+
         }
     }
 }

@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1\\Desktop\\\u05D2\u05D9\u05DC\u05D9\\CSharp-3Layer-Model\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36AA080F-24F9-4874-B25B-8D0D2E347148}|UI\\UI.csproj|c:\\users\\1\\desktop\\\u05D2\u05D9\u05DC\u05D9\\csharp-3layer-model\\ui\\frommanagermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{36AA080F-24F9-4874-B25B-8D0D2E347148}|UI\\UI.csproj|solutionrelative:ui\\frommanagermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36AA080F-24F9-4874-B25B-8D0D2E347148}|UI\\UI.csproj|c:\\users\\1\\desktop\\\u05D2\u05D9\u05DC\u05D9\\csharp-3layer-model\\ui\\fromcustemerlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{36AA080F-24F9-4874-B25B-8D0D2E347148}|UI\\UI.csproj|solutionrelative:ui\\fromcustemerlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36AA080F-24F9-4874-B25B-8D0D2E347148}|UI\\UI.csproj|c:\\users\\1\\desktop\\\u05D2\u05D9\u05DC\u05D9\\csharp-3layer-model\\ui\\frommanagermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36AA080F-24F9-4874-B25B-8D0D2E347148}|UI\\UI.csproj|solutionrelative:ui\\frommanagermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36AA080F-24F9-4874-B25B-8D0D2E347148}|UI\\UI.csproj|c:\\users\\1\\desktop\\\u05D2\u05D9\u05DC\u05D9\\csharp-3layer-model\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{36AA080F-24F9-4874-B25B-8D0D2E347148}|UI\\UI.csproj|solutionrelative:ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36AA080F-24F9-4874-B25B-8D0D2E347148}|UI\\UI.csproj|c:\\users\\1\\desktop\\\u05D2\u05D9\u05DC\u05D9\\csharp-3layer-model\\ui\\fromproductlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{36AA080F-24F9-4874-B25B-8D0D2E347148}|UI\\UI.csproj|solutionrelative:ui\\fromproductlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36AA080F-24F9-4874-B25B-8D0D2E347148}|UI\\UI.csproj|c:\\users\\1\\desktop\\\u05D2\u05D9\u05DC\u05D9\\csharp-3layer-model\\ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36AA080F-24F9-4874-B25B-8D0D2E347148}|UI\\UI.csproj|solutionrelative:ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36AA080F-24F9-4874-B25B-8D0D2E347148}|UI\\UI.csproj|c:\\users\\1\\desktop\\\u05D2\u05D9\u05DC\u05D9\\csharp-3layer-model\\ui\\fromproductlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36AA080F-24F9-4874-B25B-8D0D2E347148}|UI\\UI.csproj|solutionrelative:ui\\fromproductlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36AA080F-24F9-4874-B25B-8D0D2E347148}|UI\\UI.csproj|c:\\users\\1\\desktop\\\u05D2\u05D9\u05DC\u05D9\\csharp-3layer-model\\ui\\fromproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36AA080F-24F9-4874-B25B-8D0D2E347148}|UI\\UI.csproj|solutionrelative:ui\\fromproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36AA080F-24F9-4874-B25B-8D0D2E347148}|UI\\UI.csproj|c:\\users\\1\\desktop\\\u05D2\u05D9\u05DC\u05D9\\csharp-3layer-model\\ui\\fromproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{36AA080F-24F9-4874-B25B-8D0D2E347148}|UI\\UI.csproj|solutionrelative:ui\\fromproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{729043B9-4D4B-4E75-AFB1-78AF36C09D54}|BL\\BL.csproj|c:\\users\\1\\desktop\\\u05D2\u05D9\u05DC\u05D9\\csharp-3layer-model\\bl\\bo\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{729043B9-4D4B-4E75-AFB1-78AF36C09D54}|BL\\BL.csproj|solutionrelative:bl\\bo\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36AA080F-24F9-4874-B25B-8D0D2E347148}|UI\\UI.csproj|c:\\users\\1\\desktop\\\u05D2\u05D9\u05DC\u05D9\\csharp-3layer-model\\ui\\fromsaleslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{36AA080F-24F9-4874-B25B-8D0D2E347148}|UI\\UI.csproj|solutionrelative:ui\\fromsaleslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36AA080F-24F9-4874-B25B-8D0D2E347148}|UI\\UI.csproj|c:\\users\\1\\desktop\\\u05D2\u05D9\u05DC\u05D9\\csharp-3layer-model\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36AA080F-24F9-4874-B25B-8D0D2E347148}|UI\\UI.csproj|solutionrelative:ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36AA080F-24F9-4874-B25B-8D0D2E347148}|UI\\UI.csproj|c:\\users\\1\\desktop\\\u05D2\u05D9\u05DC\u05D9\\csharp-3layer-model\\ui\\fromproductlist.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36AA080F-24F9-4874-B25B-8D0D2E347148}|UI\\UI.csproj|solutionrelative:ui\\fromproductlist.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A21DFA15-6FE9-4D7D-961D-7C4028100BEA}|DalXml\\DalXml.csproj|c:\\users\\1\\desktop\\\u05D2\u05D9\u05DC\u05D9\\csharp-3layer-model\\dalxml\\custemerimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A21DFA15-6FE9-4D7D-961D-7C4028100BEA}|DalXml\\DalXml.csproj|solutionrelative:dalxml\\custemerimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 157,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D2\u05D9\u05DC\u05D9\\CSharp-3Layer-Model\\UI\\Program.cs",
+              "RelativeDocumentMoniker": "UI\\Program.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u05D2\u05D9\u05DC\u05D9\\CSharp-3Layer-Model\\UI\\Program.cs",
+              "RelativeToolTip": "UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T23:01:07.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D2\u05D9\u05DC\u05D9\\CSharp-3Layer-Model\\BL\\BO\\Product.cs",
+              "RelativeDocumentMoniker": "BL\\BO\\Product.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u05D2\u05D9\u05DC\u05D9\\CSharp-3Layer-Model\\BL\\BO\\Product.cs",
+              "RelativeToolTip": "BL\\BO\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T22:08:23.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FromManagerMenu.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D2\u05D9\u05DC\u05D9\\CSharp-3Layer-Model\\UI\\FromManagerMenu.cs",
+              "RelativeDocumentMoniker": "UI\\FromManagerMenu.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u05D2\u05D9\u05DC\u05D9\\CSharp-3Layer-Model\\UI\\FromManagerMenu.cs",
+              "RelativeToolTip": "UI\\FromManagerMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T21:29:05.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D2\u05D9\u05DC\u05D9\\CSharp-3Layer-Model\\UI\\Form1.cs",
+              "RelativeDocumentMoniker": "UI\\Form1.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u05D2\u05D9\u05DC\u05D9\\CSharp-3Layer-Model\\UI\\Form1.cs",
+              "RelativeToolTip": "UI\\Form1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T21:28:50.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D2\u05D9\u05DC\u05D9\\CSharp-3Layer-Model\\UI\\Form1.cs",
+              "RelativeDocumentMoniker": "UI\\Form1.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u05D2\u05D9\u05DC\u05D9\\CSharp-3Layer-Model\\UI\\Form1.cs [Design]",
+              "RelativeToolTip": "UI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T21:28:44.459Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FromCustemerList.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D2\u05D9\u05DC\u05D9\\CSharp-3Layer-Model\\UI\\FromCustemerList.cs",
+              "RelativeDocumentMoniker": "UI\\FromCustemerList.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u05D2\u05D9\u05DC\u05D9\\CSharp-3Layer-Model\\UI\\FromCustemerList.cs [Design]",
+              "RelativeToolTip": "UI\\FromCustemerList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T21:27:30.793Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FromProductList.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D2\u05D9\u05DC\u05D9\\CSharp-3Layer-Model\\UI\\FromProductList.cs",
+              "RelativeDocumentMoniker": "UI\\FromProductList.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u05D2\u05D9\u05DC\u05D9\\CSharp-3Layer-Model\\UI\\FromProductList.cs [Design]",
+              "RelativeToolTip": "UI\\FromProductList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T19:51:58.223Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FromManagerMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D2\u05D9\u05DC\u05D9\\CSharp-3Layer-Model\\UI\\FromManagerMenu.cs",
+              "RelativeDocumentMoniker": "UI\\FromManagerMenu.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u05D2\u05D9\u05DC\u05D9\\CSharp-3Layer-Model\\UI\\FromManagerMenu.cs [Design]",
+              "RelativeToolTip": "UI\\FromManagerMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T19:51:49.305Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FromProduct.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D2\u05D9\u05DC\u05D9\\CSharp-3Layer-Model\\UI\\FromProduct.cs",
+              "RelativeDocumentMoniker": "UI\\FromProduct.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u05D2\u05D9\u05DC\u05D9\\CSharp-3Layer-Model\\UI\\FromProduct.cs",
+              "RelativeToolTip": "UI\\FromProduct.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAwwE0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T19:34:21.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FromProduct.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D2\u05D9\u05DC\u05D9\\CSharp-3Layer-Model\\UI\\FromProduct.cs",
+              "RelativeDocumentMoniker": "UI\\FromProduct.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u05D2\u05D9\u05DC\u05D9\\CSharp-3Layer-Model\\UI\\FromProduct.cs [Design]",
+              "RelativeToolTip": "UI\\FromProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T19:32:32.009Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FromProductList.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D2\u05D9\u05DC\u05D9\\CSharp-3Layer-Model\\UI\\FromProductList.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\FromProductList.Designer.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u05D2\u05D9\u05DC\u05D9\\CSharp-3Layer-Model\\UI\\FromProductList.Designer.cs",
+              "RelativeToolTip": "UI\\FromProductList.Designer.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAiwH4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T19:27:50.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FromProductList.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D2\u05D9\u05DC\u05D9\\CSharp-3Layer-Model\\UI\\FromProductList.cs",
+              "RelativeDocumentMoniker": "UI\\FromProductList.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u05D2\u05D9\u05DC\u05D9\\CSharp-3Layer-Model\\UI\\FromProductList.cs",
+              "RelativeToolTip": "UI\\FromProductList.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAawEgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T19:27:48.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FromSalesList.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D2\u05D9\u05DC\u05D9\\CSharp-3Layer-Model\\UI\\FromSalesList.cs",
+              "RelativeDocumentMoniker": "UI\\FromSalesList.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u05D2\u05D9\u05DC\u05D9\\CSharp-3Layer-Model\\UI\\FromSalesList.cs [Design]",
+              "RelativeToolTip": "UI\\FromSalesList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T19:12:20.785Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustemerImplementation.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D2\u05D9\u05DC\u05D9\\CSharp-3Layer-Model\\DalXml\\CustemerImplementation.cs",
+              "RelativeDocumentMoniker": "DalXml\\CustemerImplementation.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u05D2\u05D9\u05DC\u05D9\\CSharp-3Layer-Model\\DalXml\\CustemerImplementation.cs",
+              "RelativeToolTip": "DalXml\\CustemerImplementation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T22:45:32.504Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
